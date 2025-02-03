@@ -10,16 +10,13 @@ CineMatch is an intelligent movie recommendation system that uses collaborative 
 ```
 CineMatch/
 │
-├── 📁 data/
-│   ├── movies.csv
-│   └── ratings.csv
+├── movies.csv
+└── ratings.csv
 │
-├── 📁 src/
-│   ├── recommendation_engine.py
-│   ├── data_preprocessing.py
+├── recommendation_engine.py
+├── data_preprocessing.py
 │
-├── 📁 notebooks/
-│   └── recommendation_analysis.ipynb
+│── recommendation_analysis.ipynb
 │
 ├── README.md
 └── LICENSE
