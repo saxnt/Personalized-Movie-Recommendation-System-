@@ -39,16 +39,6 @@ git clone https://github.com/yourusername/CineMatch.git
 pip install -r requirements.txt
 ```
 
-## 💡 Usage Example
-
-```python
-from src.recommendation_engine import recommend_movies
-
-# Recommend movies for a specific user
-user_id = 42
-recommendations = recommend_movies(user_id)
-```
-
 ## 📊 Data Sources
 
 - Movie metadata: MovieLens dataset
